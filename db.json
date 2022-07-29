@@ -1,0 +1,14 @@
+{
+  "notes": [
+    {
+      "title": "Add title...",
+      "content": "Add content...",
+      "id": 6
+    },
+    {
+      "title": "You can edit this note",
+      "content": "Or add note in the form above👆\n",
+      "id": 7
+    }
+  ]
+}
